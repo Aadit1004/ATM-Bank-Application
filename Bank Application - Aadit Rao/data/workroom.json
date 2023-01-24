@@ -1,0 +1,25 @@
+{
+    "Savings Balance": 2099,
+    "Savings Account Transactions": [
+        {
+            "Taken From": "User",
+            "Sent to": "Savings",
+            "Transaction Amount": 1000,
+            "Operation": "Deposit"
+        },
+        {
+            "Taken From": "User",
+            "Sent to": "Savings",
+            "Transaction Amount": 99,
+            "Operation": "Deposit"
+        }
+    ],
+    "Chequings Balance": 4900,
+    "name": "ATM WorkRoom",
+    "Chequings Account Transactions": [{
+        "Taken From": "Chequings",
+        "Sent to": "User",
+        "Transaction Amount": 100,
+        "Operation": "Withdraw"
+    }]
+}
